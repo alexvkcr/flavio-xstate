@@ -1,0 +1,22 @@
+{
+  "name": "flavio-xstate",
+  "version": "1.0.0",
+  "description": "flavio tutotrial for indtroduction to XState",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexvkcr/flavio-xstate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexvkcr/flavio-xstate/issues"
+  },
+  "homepage": "https://github.com/alexvkcr/flavio-xstate#readme",
+  "dependencies": {
+    "xstate": "^4.11.0"
+  }
+}
